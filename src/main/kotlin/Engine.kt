@@ -1,0 +1,4 @@
+interface Engine {
+
+    fun start()
+}

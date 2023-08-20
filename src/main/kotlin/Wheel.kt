@@ -1,0 +1,4 @@
+interface Wheel {
+
+    fun start()
+}
